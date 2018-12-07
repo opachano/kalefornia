@@ -1,0 +1,47 @@
+body{
+  background-color: #F8F9FA;
+  font-family: Roboto, sans-serif
+}
+
+.kaleNav {
+  width: 100%;
+  background-color: rgba(10, 10, 10, 0.1)
+}
+
+.carouselContainer{
+  width: 80vw;
+  height: 80vh;
+}
+
+.carousel-caption {
+  position: relative;
+  bottom: 60vh;
+  left: 0;
+  background-color: rgba(56, 56, 56, 0.65);
+}
+
+.carousel-caption h5{
+  font-size: 42px;
+  font-weight: boldest;
+}
+
+
+.kaleHeader img{
+  width: 80vw;
+}
+
+.facts-section{
+  margin: 5vh;
+   width: 20vw;
+   text-align: center;
+   
+ }
+ .facts-img{
+  width: 70px;
+  color: #244202;
+  margin-bottom: 2vw;
+ }
+ .title-facts{
+ color: #244202;
+ padding: 5%;
+ }
