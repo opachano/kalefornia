@@ -5,7 +5,8 @@ body{
 
 .kaleNav {
   width: 100%;
-  background-color: rgba(10, 10, 10, 0.1)
+  background-color: rgba(10, 10, 10, 0.1);
+  background-size: contain;
 }
 
 .carouselContainer{
